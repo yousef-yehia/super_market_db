@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket.App", "SuperMarket.App\SuperMarket.App.csproj", "{7DD2FB96-0A73-43CD-9FAA-F0235A21160D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMaker.Database", "SuperMaker.Database\SuperMaker.Database.csproj", "{910E34F4-7F32-4961-BE79-F84E0F77CA1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD2FB96-0A73-43CD-9FAA-F0235A21160D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD2FB96-0A73-43CD-9FAA-F0235A21160D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD2FB96-0A73-43CD-9FAA-F0235A21160D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD2FB96-0A73-43CD-9FAA-F0235A21160D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910E34F4-7F32-4961-BE79-F84E0F77CA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910E34F4-7F32-4961-BE79-F84E0F77CA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910E34F4-7F32-4961-BE79-F84E0F77CA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910E34F4-7F32-4961-BE79-F84E0F77CA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84047656-3FB2-4F57-BC53-EB62549C4F06}
+	EndGlobalSection
+EndGlobal
